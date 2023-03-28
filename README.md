@@ -4,5 +4,5 @@ Actualmente estoy terminando el curso Bootcamp Full Stack dictado por la Univers
 
 Además estoy participando en más de 10 proyectos de desarrollo de software, los cuales están operando en Chile y el extranjero.
 
-Lenguajes y herramientas: bootstrap css git html javascript ajax php react node.js photoshop, illustrator, Otros.
+Lenguajes y herramientas: bootstrap, css, github, html, javascript, ajax, php, react, node.js, photoshop, illustrator, dreamweaver, vsc, Otros.
 
